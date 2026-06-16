@@ -1,7 +1,12 @@
-## Hi there 👋 I'm Hassan Ali
+## Hello 👋 I'm Hassan Ali , a graduate of the faculty of computer science
 
 # 💫 About Me:
-💻 Backend Developer specialized in .NET Core, C#, EF Core, SQL, and LINQ.<br>⚡ Passionate about building clean, scalable, and maintainable applications using modern architectures.<br>🚀 Focused on problem solving, continuous learning, and writing high-quality code.<br>🌱 Continuously exploring Clean Architecture,N-tire Architrcture Onion Architecture, Design Patterns, CQRS, MediatR ,Unit Testing, and advanced backend practices.<br>💡 Interested in discussing backend design decisions, performance optimization, and .NET best practices.<br>💬 Feel free to ask me about anything backend related.
+💻 Backend Developer specialized in .NET Core, C#, EF Core, SQL, and LINQ.<br>
+⚡ Passionate about building clean, scalable, and maintainable applications using modern architectures.<br>
+🚀 Focused on problem solving, continuous learning, and writing high-quality code.<br>
+🌱 Continuously exploring Clean Architecture,N-tire Architrcture Onion Architecture, Design Patterns, CQRS, MediatR ,Unit Testing, and advanced backend practices.<br>
+💡 Interested in discussing backend design decisions, performance optimization, and .NET best practices.<br>
+💬 Feel free to ask me about anything backend related.
 
 
 ## 🌐 Socials:
